@@ -14,7 +14,7 @@ Aspiring Software Engineer currently studying at Ryerson university, with a drea
 
 [Budgety](/Budgety/index.html) | [Forkify](/forkify/index.html)
 ------------------------------ | ------------------------------
-![Budgety](/Budgety/Budgety.png)|
+![Budgety](/Budgety/Budgety.png)|![forkify](/forkify/forkify.png)
 
 ### Support or Contact
 
