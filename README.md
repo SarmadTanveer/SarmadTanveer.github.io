@@ -3,16 +3,16 @@
 Aspiring Software Engineer currently studying at Ryerson university, with a dream to one day change the world for better by leveraging the power of the internet and AI. Currently focused on web development and learning web technologies.
 
 ### Hobbies:
--Coding 
--Fitness
--Learning a Musical Instrument
--Martial Arts
+*Coding 
+*Fitness
+*Learning a Musical Instrument
+*Martial Arts
 
 ## Projects
 
 ### Checkout what I've created:
 
-[Budgety](/Budgety/index.html) | [Forkify](/Forkify/index.html)
+[Budgety](/Budgety/index.html) | [Forkify](/forkify/index.html)
 ------------------------------ | ------------------------------
 
 
