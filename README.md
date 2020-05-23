@@ -16,6 +16,6 @@ Aspiring Software Engineer currently studying at Ryerson university, with a drea
 ------------------------------ | ------------------------------|--------------------------------
 ![Budgety](/Budgety/Budgety.png)|![Forkify](/forkify/img/forkify.png)|![Pig Game](/pigGame/pigGame.png)
 
-### Support or Contact
+## Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+If you'd like to offer me a job or suggestions, email me at: s1tanveer@ryerson.ca
