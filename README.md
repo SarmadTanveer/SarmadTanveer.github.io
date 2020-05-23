@@ -12,9 +12,9 @@ Aspiring Software Engineer currently studying at Ryerson university, with a drea
 
 ### Checkout what I've created:
 
-[Budgety](/Budgety/index.html) | [Forkify](/forkify/index.html)
------------------------------- | ------------------------------
-![Budgety](/Budgety/Budgety.png)|![forkify](/forkify/img/forkify.png)
+[Budgety](/Budgety/index.html) | [Forkify](/forkify/index.html)| [Pig Game](/pigGame/index.html)
+------------------------------ | ------------------------------|--------------------------------
+![Budgety](/Budgety/Budgety.png)|![Forkify](/forkify/img/forkify.png)|![Pig Game](/pigGame/pigGame.png)
 
 ### Support or Contact
 
