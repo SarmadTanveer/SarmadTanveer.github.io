@@ -1,18 +1,20 @@
 ## About Me
 
-Aspiring Software Engineer currently studying at Ryerson university, with a dream to one day change the world for better by leveraging the power of the internet and AI. Currently focused on web development and learning web technologies.
+Aspiring Computer Engineer currently studying at Ryerson university, with a dream to one day change the world for better. Extremely interested Real-Time Embedded Systems and their application in Avionics, Quantitative Finance and Artifiacial Intelligence. Strong believer in disruption being the new norm. 
 
 ### Hobbies:
 * Coding 
+* Electronic Prototyping
+* Investing in Financial Markets
 * Fitness
-* Learning a Musical Instrument
+* Anime 
 * Martial Arts
 
 ## Projects
 
-### Checkout what I've created:
+### Checkout My Work:
 
-[Budgety](/Budgety/index.html) | [Forkify](/forkify/index.html)| [Pig Game](/pigGame/index.html)
+[Web Scraping](/Budgety/index.html) | [Music Visualizer](/Budgety/index.html) | [Selected Labs](/Budgety/index.html) |[F-Score Calculator](/Budgety/index.html) |  [Budgety](/Budgety/index.html) | [Forkify](/forkify/index.html)| [Pig Game](/pigGame/index.html)
 ------------------------------ | ------------------------------|--------------------------------
 ![Budgety](/Budgety/Budgety.png)|![Forkify](/forkify/img/forkify.png)|![Pig Game](/pigGame/pigGame.png)
 
