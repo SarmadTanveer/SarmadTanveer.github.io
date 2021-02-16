@@ -17,7 +17,7 @@ Aspiring Computer Engineer currently studying at Ryerson university, with a drea
   * A python based web scraping program that scrapes data for job certificates awarded to canadian construction companies
 * [Spectrum Analyzer](https://sarmadtanveer.github.io/spectrum-analyzer/)
   * An arduino based audio spectrum analyzer that displays frequency amplitude on a 64 x 64 LED matrix
-* [Selected Labs](https://sarmadtanveer.github.io/labs/)
+* [Selected Labs](https://github.com/SarmadTanveer/labs)
   * Lab work from my computer engineering degree
 * [F-Score Calculator](https://sarmadtanveer.github.io/F-Score-Calculator/)
   * An investment analyzer based on the Piotroski F-Score methodology
