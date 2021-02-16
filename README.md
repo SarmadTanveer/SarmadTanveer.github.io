@@ -21,8 +21,6 @@ Aspiring Computer Engineer currently studying at Ryerson university, with a drea
   * Lab work from my computer engineering degree
 * [F-Score Calculator](https://sarmadtanveer.github.io/F-Score-Calculator/)
   * An investment analyzer based on the Piotroski F-Score methodology
-* [Selected Labs](https://sarmadtanveer.github.io/labs/)
-  * Lab work from my computer engineering degree
 * [Budgety](/Budgety/index.html)
   * A javascript budgeting app that lets you enter monthly incomes and expenses to determine budgeting and spending
 * [Forkify](/forkify/index.html)
