@@ -27,7 +27,7 @@ Aspiring Computer Engineer currently studying at Ryerson university, with a drea
   **![Budgety](/Budgety/Budgety.png)
 * [Forkify](/forkify/index.html)
   **![Forkify](/forkify/img/forkify.png)
-* [Pig Game](/pigGame/index.html
+* [Pig Game](/pigGame/index.html)
   **![Pig Game](/pigGame/pigGame.png
 
 ## Contact
