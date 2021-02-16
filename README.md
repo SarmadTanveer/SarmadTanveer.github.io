@@ -24,11 +24,11 @@ Aspiring Computer Engineer currently studying at Ryerson university, with a drea
 * [Selected Labs](https://sarmadtanveer.github.io/labs/)
   **Lab work from my computer engineering degree
 * [Budgety](/Budgety/index.html)
-  **![Budgety](/Budgety/Budgety.png)
+  ** ![Budgety](/Budgety/Budgety.png)
 * [Forkify](/forkify/index.html)
-  **![Forkify](/forkify/img/forkify.png)
+  ** ![Forkify](/forkify/img/forkify.png)
 * [Pig Game](/pigGame/index.html)
-  **![Pig Game](/pigGame/pigGame.png
+  ** ![Pig Game](/pigGame/pigGame.png
 
 ## Contact
 
