@@ -15,8 +15,8 @@ Aspiring Computer Engineer currently studying at Ryerson university, with a drea
 ### Checkout My Work:
 
 [Web Scraping](/Budgety/index.html) | [Music Visualizer](/Budgety/index.html) | [Selected Labs](/Budgety/index.html) |[F-Score Calculator](/Budgety/index.html) |  [Budgety](/Budgety/index.html) | [Forkify](/forkify/index.html)| [Pig Game](/pigGame/index.html)
------------------------------- | ------------------------------|--------------------------------
-![Budgety](/Budgety/Budgety.png)|![Forkify](/forkify/img/forkify.png)|![Pig Game](/pigGame/pigGame.png)
+------------------------------ | ------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------
+!|!|!|!|![Budgety](/Budgety/Budgety.png)|![Forkify](/forkify/img/forkify.png)|![Pig Game](/pigGame/pigGame.png)
 
 ## Contact
 
