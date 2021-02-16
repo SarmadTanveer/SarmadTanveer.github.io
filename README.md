@@ -14,7 +14,7 @@ Aspiring Computer Engineer currently studying at Ryerson university, with a drea
 
 ### Checkout My Work:
 
-[Web Scraping](/Budgety/index.html) | [Music Visualizer](/Budgety/index.html) | [Selected Labs](/Budgety/index.html) |[F-Score Calculator](/Budgety/index.html) |  [Budgety](/Budgety/index.html) | [Forkify](/forkify/index.html)| [Pig Game](/pigGame/index.html)
+[Web Scraping](https://sarmadtanveer.github.io/dcn-scraping/) | [Spectrum Analyzer](https://sarmadtanveer.github.io/spectrum-analyzer/) | [Selected Labs](/Budgety/index.html) |[F-Score Calculator](/Budgety/index.html) |  [Budgety](/Budgety/index.html) | [Forkify](/forkify/index.html)| [Pig Game](/pigGame/index.html)
 ------------------------------ | ------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------
 !|!|!|!|![Budgety](/Budgety/Budgety.png)|![Forkify](/forkify/img/forkify.png)|![Pig Game](/pigGame/pigGame.png)
 
