@@ -14,21 +14,21 @@ Aspiring Computer Engineer currently studying at Ryerson university, with a drea
 
 ### Checkout My Work:
 * [Web Scraping](https://sarmadtanveer.github.io/dcn-scraping/)
-  **A python based web scraping program that scrapes data for job certificates awarded to canadian construction companies
+  ** A python based web scraping program that scrapes data for job certificates awarded to canadian construction companies
 * [Spectrum Analyzer](https://sarmadtanveer.github.io/spectrum-analyzer/)
-  **An arduino based audio spectrum analyzer that displays frequency amplitude on a 64 x 64 LED matrix
+  ** An arduino based audio spectrum analyzer that displays frequency amplitude on a 64 x 64 LED matrix
 * [Selected Labs](https://sarmadtanveer.github.io/labs/)
-  **Lab work from my computer engineering degree
+  ** Lab work from my computer engineering degree
 * [F-Score Calculator](https://sarmadtanveer.github.io/F-Score-Calculator/)
-  **An investment analyzer based on the Piotroski F-Score methodology
+  ** An investment analyzer based on the Piotroski F-Score methodology
 * [Selected Labs](https://sarmadtanveer.github.io/labs/)
-  **Lab work from my computer engineering degree
+  ** Lab work from my computer engineering degree
 * [Budgety](/Budgety/index.html)
-  **Budgety: ![Budgety](/Budgety/Budgety.png)
+  ** A javascript budgeting app that lets you enter monthly incomes and expenses to determine budgeting and spending
 * [Forkify](/forkify/index.html)
-  **Forkify ![Forkify](/forkify/img/forkify.png)
+  ** A simple javascript based recipe index
 * [Pig Game](/pigGame/index.html)
-  **PigGame ![Pig Game](/pigGame/pigGame.png
+  ** The popular dice game implemented in javascript
 
 ## Contact
 
