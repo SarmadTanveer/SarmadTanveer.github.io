@@ -13,10 +13,22 @@ Aspiring Computer Engineer currently studying at Ryerson university, with a drea
 ## Projects
 
 ### Checkout My Work:
-
-[Web Scraping](https://sarmadtanveer.github.io/dcn-scraping/) | [Spectrum Analyzer](https://sarmadtanveer.github.io/spectrum-analyzer/) | [Selected Labs](https://sarmadtanveer.github.io/labs/) |[F-Score Calculator](/Budgety/index.html) |  [Budgety](/Budgety/index.html) | [Forkify](/forkify/index.html)| [Pig Game](/pigGame/index.html)
------------------------------- | ------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------
-A python based web scraping program that scrapes data for job certificates awarded to canadian construction companies|An arduino based audio spectrum analyzer that displays frequency amplitude on a 64 x 64 LED matrix|Lab work from my computer engineering degree|An investment analyzer based on the Piotroski F-Score methodology|![Budgety](/Budgety/Budgety.png)|![Forkify](/forkify/img/forkify.png)|![Pig Game](/pigGame/pigGame.png)
+* [Web Scraping](https://sarmadtanveer.github.io/dcn-scraping/)
+  **A python based web scraping program that scrapes data for job certificates awarded to canadian construction companies
+* [Spectrum Analyzer](https://sarmadtanveer.github.io/spectrum-analyzer/)
+  **An arduino based audio spectrum analyzer that displays frequency amplitude on a 64 x 64 LED matrix
+* [Selected Labs](https://sarmadtanveer.github.io/labs/)
+  **Lab work from my computer engineering degree
+* [F-Score Calculator](https://sarmadtanveer.github.io/F-Score-Calculator/)
+  **An investment analyzer based on the Piotroski F-Score methodology
+* [Selected Labs](https://sarmadtanveer.github.io/labs/)
+  **Lab work from my computer engineering degree
+* [Budgety](/Budgety/index.html)
+  **![Budgety](/Budgety/Budgety.png)
+* [Forkify](/forkify/index.html)
+  **![Forkify](/forkify/img/forkify.png)
+* [Pig Game](/pigGame/index.html
+  **![Pig Game](/pigGame/pigGame.png
 
 ## Contact
 
