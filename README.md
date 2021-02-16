@@ -14,9 +14,9 @@ Aspiring Computer Engineer currently studying at Ryerson university, with a drea
 
 ### Checkout My Work:
 
-[Web Scraping](https://sarmadtanveer.github.io/dcn-scraping/) | [Spectrum Analyzer](https://sarmadtanveer.github.io/spectrum-analyzer/) | [Selected Labs](/Budgety/index.html) |[F-Score Calculator](/Budgety/index.html) |  [Budgety](/Budgety/index.html) | [Forkify](/forkify/index.html)| [Pig Game](/pigGame/index.html)
+[Web Scraping](https://sarmadtanveer.github.io/dcn-scraping/) | [Spectrum Analyzer](https://sarmadtanveer.github.io/spectrum-analyzer/) | [Selected Labs](https://sarmadtanveer.github.io/labs/) |[F-Score Calculator](/Budgety/index.html) |  [Budgety](/Budgety/index.html) | [Forkify](/forkify/index.html)| [Pig Game](/pigGame/index.html)
 ------------------------------ | ------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------|--------------------------------
-!|!|!|!|![Budgety](/Budgety/Budgety.png)|![Forkify](/forkify/img/forkify.png)|![Pig Game](/pigGame/pigGame.png)
+A python based web scraping program that scrapes data for job certificates awarded to canadian construction companies|An arduino based audio spectrum analyzer that displays frequency amplitude on a 64 x 64 LED matrix|Lab work from my computer engineering degree|An investment analyzer based on the Piotroski F-Score methodology|![Budgety](/Budgety/Budgety.png)|![Forkify](/forkify/img/forkify.png)|![Pig Game](/pigGame/pigGame.png)
 
 ## Contact
 
