@@ -1,18 +1,30 @@
 ## About Me
 
-Aspiring Computer Engineer currently studying at Ryerson university, with a dream to one day change the world for better. Extremely interested Real-Time Embedded Systems and their application in Avionics, Quantitative Finance and Artifiacial Intelligence. Strong believer in disruption being the new norm. 
+I'm a recent Computer Engineering Graduate from Toronto Metropilitan University, with a dream to one day change the world for better. I use to code to pursue my interests in entrepreneurship, quantitative finance, human machine interaction and artifiacial intelligence. With project mangement experience in manufacturing and software engineering experience in healthcare, I'm looking for the next big oppurtunity to disrupt the norm.  
 
 ### Hobbies:
 * Coding 
 * Electronic Prototyping
 * Investing in Financial Markets
-* Fitness
+* LED Art
 * Anime 
 * Martial Arts
 
 ## Projects
 
 ### Checkout My Work:
+* [Emergency Department Simulator](https://edsim.sarmadtanveer.com)
+  * A python based resource simulator for emergency departments. The simulator is based montecarlo and discrete event simulation methods
+* [RENTL](https://rentl.sarmadtanveer.com)
+  * Mockup of a property rental and management application designed and built for a UI competition
+* [Secure File Transfer Client](https://transfers.newtopia.com)
+  * A secure drop box like application built for sharing healthcare data using React and an etirely serverless AWS backend 
+* [Budgety](/Budgety/index.html)
+  * A javascript budgeting app that lets you enter monthly incomes and expenses to determine budgeting and spending
+* [Forkify](/forkify/index.html)
+  * A simple javascript based recipe index
+* [Pig Game](/pigGame/index.html)
+  * The popular dice game implemented in javascript
 * [Web Scraping](https://sarmadtanveer.github.io/dcn-scraping/)
   * A python based web scraping program that scrapes data for job certificates awarded to canadian construction companies
 * [Spectrum Analyzer](https://sarmadtanveer.github.io/spectrum-analyzer/)
@@ -21,12 +33,8 @@ Aspiring Computer Engineer currently studying at Ryerson university, with a drea
   * Lab work from my computer engineering degree
 * [F-Score Calculator](https://sarmadtanveer.github.io/F-Score-Calculator/)
   * An investment analyzer based on the Piotroski F-Score methodology
-* [Budgety](/Budgety/index.html)
-  * A javascript budgeting app that lets you enter monthly incomes and expenses to determine budgeting and spending
-* [Forkify](/forkify/index.html)
-  * A simple javascript based recipe index
-* [Pig Game](/pigGame/index.html)
-  * The popular dice game implemented in javascript
+* [Conway's Game of Life](https://sarmadtanveer.github.io/Game_Of_Life/)
+  * A simple implementation of the famous cellular automaton, Game of life 
 
 ## Contact
 
