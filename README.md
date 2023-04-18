@@ -1,6 +1,9 @@
 ## About Me
 
-I'm a recent Computer Engineering Graduate from Toronto Metropilitan University, with a dream to one day change the world for better. I use to code to pursue my interests in entrepreneurship, quantitative finance, human machine interaction and artifiacial intelligence. With project mangement experience in manufacturing and software engineering experience in healthcare, I'm looking for the next big oppurtunity to disrupt the norm.  
+I'm a recent Computer Engineering Graduate from Toronto Metropilitan University, with a dream to one day change the world for better. I use to code to pursue my interests in entrepreneurship, quantitative finance, human machine interaction and artificial intelligence. Both professionally and personally, I'm a big believer of the KISS principle and bootstrapping. Recently I've taken an interest in building highly scalable, recoverable and resilient systems, so check back in for some new projects.
+
+If you're looking to hire me, here is my sales pitch: 
+With project mangement experience in manufacturing and software engineering experience in healthcare, I'm looking for the next big oppurtunity to disrupt the norm. If you value customer experience, agility, a growth mindset and honesty, we'll get along quite well.  
 
 ### Hobbies:
 * Coding 
@@ -12,7 +15,7 @@ I'm a recent Computer Engineering Graduate from Toronto Metropilitan University,
 
 ## Projects
 
-### Checkout My Work:
+### Click on the name to see a live demo:
 * [Emergency Department Simulator](https://edsim.sarmadtanveer.com)
   * A python based resource simulator for emergency departments. The simulator is based montecarlo and discrete event simulation methods
 * [RENTL](https://rentl.sarmadtanveer.com)
@@ -38,4 +41,4 @@ I'm a recent Computer Engineering Graduate from Toronto Metropilitan University,
 
 ## Contact
 
-If you'd like to offer me a job or suggestions, email me at: s1tanveer@ryerson.ca
+If you'd like to have a chat or offer a suggestion, email me at: s1tanveer@torontomu.ca
